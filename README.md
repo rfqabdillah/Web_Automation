@@ -1,7 +1,7 @@
 # 🧪 SauceDemo Automation Test
 
 Project ini adalah bagian dari **Digital Skola kelas QA Engineer batch 10**.  
-Dalam project ini berisikan **automated testing** pada situs [SauceDemo](https://www.saucedemo.com) menggunakan **Selenium WebDriver** dan **Mocha** sebagai framework testing, dengan fokus pada fungsionalitas login, sorting produk, dan logout.
+Dalam project ini berisikan **automation testing** pada situs [SauceDemo](https://www.saucedemo.com) menggunakan **Selenium WebDriver** dan **Mocha** sebagai framework testing, dengan fokus pada fungsionalitas login, sorting produk, dan logout.
 
 ---
 

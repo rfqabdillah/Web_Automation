@@ -28,7 +28,7 @@ describe('SauceDemo Automation Test', function () {
       await logoutLink.click();
       await driver.wait(until.elementLocated(By.css('[data-test="login-button"]')), 10000);
     } catch (err) {
-      // kalau tidak bisa logout (misalnya karena gagal login), abaikan error ini
+      // kalau tidak bisa logout (misalnya karena gagal login)
     }
   });
 
